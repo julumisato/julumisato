@@ -1,4 +1,6 @@
-👋 Olá, sou Juliana Sato! ✨
+👋 Hi, I'm Juliana Sato! ✨
+<br>
+🌱 Cadet at 42 São Paulo 
 
 <div align="center">
   <a href="https://github.com/julumisato">
