@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Juliana Sato! ✨
 <br>
 About me: <br>
-😄 Biomedical Scientist <br>
+😄 Biomedical Scientist (Molecular Biology) <br>
 🌱 Cadet at 42 São Paulo <br>
 🔭 currently learning C language <br>
 <br>
