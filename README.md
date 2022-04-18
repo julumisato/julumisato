@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm Juliana Sato! ✨
 <br>
 About me: <br>
-😄 Bachelor degree in Biomedical Science & Masters degree in Biological Science (Molecular Biology, Microbiology) <br>
+🧬 Bachelor degree in Biomedical Science & Masters degree in Biological Science (Molecular Biology, Microbiology) <br>
 🌱 Cadet at 42 São Paulo <br>
 🔭 currently learning C language <br>
 <br>
