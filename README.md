@@ -2,7 +2,7 @@
 <br>
 About me: <br>
 🧬 Bachelor degree in Biomedical Science & Masters degree in Biological Science (Molecular Biology, Microbiology) <br>
-🌱 Cadet at 42 São Paulo <br>
+🌱 Cadet at 42 São Paulo (Software Engineering) <br>
 🔭 currently learning C language <br>
 <br>
 <br>
