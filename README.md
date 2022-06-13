@@ -11,3 +11,9 @@ About me: <br>
 <div>
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl3as43u0011709jxtjjwqkor/stats?cursusId=21&coalitionId=undefined" alt="jusato's 42 stats" /></a>
 </div>
+
+<div>
+  <h1>Achievements</h1>
+  <img src="https://user-images.githubusercontent.com/99855085/173451109-3abd4960-3e0d-41dc-b14c-8b4e6b9f71cc.png">
+  <img src="https://user-images.githubusercontent.com/99855085/173451124-d7081390-725a-40d4-b792-9533a5b8988c.png">
+</div>
