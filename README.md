@@ -18,5 +18,6 @@ About me: <br>
   <img src="https://user-images.githubusercontent.com/99855085/173451124-d7081390-725a-40d4-b792-9533a5b8988c.png">
   <img src="https://user-images.githubusercontent.com/99855085/178151472-fde5ad76-02ba-44a1-a072-66ddea8302e8.png">
   <img src="https://user-images.githubusercontent.com/99855085/185276973-a37a6cae-7dd5-4872-bdca-3abffab21c2d.png">
+  <img src="https://user-images.githubusercontent.com/99855085/198384948-f2819270-4dac-46c5-991d-e24b46c779bf.png">
 
 </div>
